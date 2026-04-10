@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Big", "reading": "บิก", "meaning": "ใหญ่", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/14/04/45/elephant-1822636_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1054666/pexels-photo-1054666.jpeg"
+  },
+  { 
+    "word": "Small", "reading": "สมอล", "meaning": "เล็ก", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/21/21/33/ant-1998394_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/45879/grass-hooper-insect-animal-45879.jpeg"
+  },
+  { 
+    "word": "Tall", "reading": "ทอล", "meaning": "สูง", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/16/22/01/giraffe-1985412_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/802112/pexels-photo-802112.jpeg"
+  },
+  { 
+    "word": "Short", "reading": "ชอร์ต", "meaning": "เตี้ย/สั้น", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/03/47/fawn-1867160_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/159515/football-american-football-runner-player-159515.jpeg"
+  },
+  { 
+    "word": "Long", "reading": "ลอง", "meaning": "ยาว", 
+    "image": "https://cdn.pixabay.com/photo/2017/02/16/11/17/train-2071191_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg"
+  },
+  { 
+    "word": "Fast", "reading": "ฟาสต์", "meaning": "เร็ว", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/16/06/cheetah-1835542_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg"
+  },
+  { 
+    "word": "Slow", "reading": "สโลว์", "meaning": "ช้า", 
+    "image": "https://cdn.pixabay.com/photo/2017/04/05/22/35/snail-2206649_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/33129/arrow-direction-one-way-sign.jpg"
+  },
+  { 
+    "word": "Hot", "reading": "ฮอท", "meaning": "ร้อน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/15/48/beverage-1853658_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg"
+  },
+  { 
+    "word": "Cold", "reading": "โคลด์", "meaning": "หนาว/เย็น", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/21/11/52/ice-1997011_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/60561/pexels-photo-60561.jpeg"
+  },
+  { 
+    "word": "Heavy", "reading": "เฮฟ-วี่", "meaning": "หนัก", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/13/21/weight-2023992_1280.png",
+    "image_backup": "https://images.pexels.com/photos/221247/pexels-photo-221247.jpeg"
+  }
+]

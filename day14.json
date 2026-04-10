@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Sun", "reading": "ซัน", "meaning": "พระอาทิตย์", 
+    "image": "https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg"
+  },
+  { 
+    "word": "Sunny", "reading": "ซัน-นี่", "meaning": "แดดจัด", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/02/10/41/plane-513641_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3768/sky-sunny-clouds-cloudy.jpg"
+  },
+  { 
+    "word": "Rain", "reading": "เรน", "meaning": "ฝน", 
+    "image": "https://cdn.pixabay.com/photo/2013/02/21/19/14/rain-84648_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/110874/pexels-photo-110874.jpeg"
+  },
+  { 
+    "word": "Rainy", "reading": "เรน-นี่", "meaning": "ฝนตก", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/31/20/39/girl-869614_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1533720/pexels-photo-1533720.jpeg"
+  },
+  { 
+    "word": "Cloud", "reading": "คลาวด์", "meaning": "เมฆ", 
+    "image": "https://cdn.pixabay.com/photo/2015/03/26/09/47/sky-690293_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/158163/pexels-photo-158163.jpeg"
+  },
+  { 
+    "word": "Cloudy", "reading": "คลาวด์-ดี้", "meaning": "เมฆมาก", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/13/23/34/clouds-530055_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/414659/pexels-photo-414659.jpeg"
+  },
+  { 
+    "word": "Windy", "reading": "วิน-ดี้", "meaning": "ลมแรง", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/09/11/44/wind-1246210_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1431822/pexels-photo-1431822.jpeg"
+  },
+  { 
+    "word": "Storm", "reading": "สตรอม", "meaning": "พายุ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/19/12/lightning-1850120_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg"
+  },
+  { 
+    "word": "Snow", "reading": "สโนว์", "meaning": "หิมะ", 
+    "image": "https://cdn.pixabay.com/photo/2013/12/12/04/18/snow-227202_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/60561/pexels-photo-60561.jpeg"
+  },
+  { 
+    "word": "Rainbow", "reading": "เรน-โบว์", "meaning": "รุ้งกินน้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2014/10/25/11/49/rainbow-502396_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/125514/pexels-photo-125514.jpeg"
+  }
+]

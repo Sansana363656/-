@@ -1,55 +1,41 @@
 let vocabData = [];
 let currentPage = 1;
 const itemsPerPage = 10;
+let currentDay = 1;
 
-window.onload = function() {
-    loadVocab();
-};
+// --- ระบบแสดงผลและจัดการข้อมูล ---
 
-// --- ฟังก์ชันใหม่: สำหรับกดปุ่มเปลี่ยนวัน ---
-function changeDay(step) {
-    let dayInput = document.getElementById('dayInput');
-    let currentDay = parseInt(dayInput.value);
-    let nextDay = currentDay + step;
-    
-    if (nextDay < 1) return; // ไม่ให้ติดลบ
-    
-    dayInput.value = nextDay;
-    loadVocab(); // โหลดข้อมูลวันใหม่ทันที
-}
-
-async function loadVocab() {
-    const dayInput = document.getElementById('dayInput').value;
-    const fileName = `day${dayInput}.json`;
-    
+async function loadVocab(day) {
     try {
-        const response = await fetch(fileName);
-        if (!response.ok) throw new Error(`ยังไม่มีข้อมูลของวันที่ ${dayInput} ครับคุณอ้วน`);
-        
+        const response = await fetch(`day${day}.json`);
+        if (!response.ok) throw new Error('Network response was not ok');
         vocabData = await response.json();
         currentPage = 1;
         displayVocab();
+        updatePaginationButtons();
+        document.getElementById('current-day-display').innerText = `วันที่ ${day}`;
     } catch (error) {
-        alert(error.message);
-        // ถ้าหาไฟล์ไม่เจอ ให้ล้างหน้าจอ
-        document.getElementById('vocab-container').innerHTML = '';
-        document.getElementById('pagination-controls').innerHTML = '';
+        console.error('Error loading vocab:', error);
+        document.getElementById('vocab-container').innerHTML = `<p style="color:red; text-align:center;">ไม่พบข้อมูลของวันที่ ${day} หรือไฟล์มีข้อผิดพลาด</p>`;
     }
 }
 
 function displayVocab() {
     const container = document.getElementById('vocab-container');
-    container.innerHTML = ''; 
+    container.innerHTML = '';
 
     const startIndex = (currentPage - 1) * itemsPerPage;
     const endIndex = startIndex + itemsPerPage;
-    const paginatedItems = vocabData.slice(startIndex, endIndex);
+    const pageData = vocabData.slice(startIndex, endIndex);
 
-    paginatedItems.forEach(item => {
+    pageData.forEach(item => {
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
-            <img src="${item.image}" alt="${item.word}" onerror="this.src='https://via.placeholder.com/300x200?text=No+Image'">
+            <img src="${item.image}" 
+                 alt="${item.word}" 
+                 class="word-img" 
+                 onerror="if (this.src !== '${item.image_backup}') { this.src = '${item.image_backup}'; } else { this.src = 'https://via.placeholder.com/300?text=No+Image'; }">
             <div>
                 <div class="word">${item.word}</div>
                 <div class="reading">${item.reading}</div>
@@ -59,32 +45,27 @@ function displayVocab() {
         `;
         container.appendChild(card);
     });
-
-    updatePaginationButtons();
 }
 
-function speakFull(engText, thText) {
+function speakFull(enText, thText) {
     window.speechSynthesis.cancel();
-    const msgEng = new SpeechSynthesisUtterance(engText);
-    msgEng.lang = 'en-US';
-    msgEng.rate = 0.8; 
+    const msgEn = new SpeechSynthesisUtterance(enText);
+    msgEn.lang = 'en-US';
+    msgEn.rate = 0.8;
     const msgTh = new SpeechSynthesisUtterance(thText);
     msgTh.lang = 'th-TH';
-    window.speechSynthesis.speak(msgEng);
-    msgEng.onend = function() { window.speechSynthesis.speak(msgTh); };
+    msgTh.rate = 1.0;
+    msgEn.onend = () => { window.speechSynthesis.speak(msgTh); };
+    window.speechSynthesis.speak(msgEn);
 }
 
 function updatePaginationButtons() {
     const paginationDiv = document.getElementById('pagination-controls');
-    // ถ้าคำศัพท์ในวันนั้นมีมากกว่า 10 คำ ถึงจะโชว์ปุ่มเลื่อนหน้า (หน้า 1, 2, 3...)
-    if (vocabData.length <= itemsPerPage) {
-        paginationDiv.innerHTML = '';
-        return;
-    }
-
+    paginationDiv.innerHTML = '';
+    if (vocabData.length <= itemsPerPage) return;
     paginationDiv.innerHTML = `
         <button onclick="changePage(-1)" ${currentPage === 1 ? 'disabled' : ''} style="background:#666; margin:5px;">⬅️ หน้าก่อน</button>
-        <span style="font-weight:bold; margin:0 15px;">หน้า ${currentPage}</span>
+        <span style="font-weight:bold; margin:0 15px;">หน้าที่ ${currentPage}</span>
         <button onclick="changePage(1)" ${currentPage * itemsPerPage >= vocabData.length ? 'disabled' : ''} style="background:#666; margin:5px;">หน้าถัดไป ➡️</button>
     `;
 }
@@ -92,7 +73,15 @@ function updatePaginationButtons() {
 function changePage(step) {
     currentPage += step;
     displayVocab();
+    updatePaginationButtons();
     window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function changeDay(step) {
+    let nextDay = currentDay + step;
+    if (nextDay < 1) return;
+    currentDay = nextDay;
+    loadVocab(currentDay);
 }
 
 function searchVocab() {
@@ -107,7 +96,7 @@ function searchVocab() {
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
-            <img src="${item.image}" alt="${item.word}" onerror="this.src='https://via.placeholder.com/300x200?text=No+Image'">
+            <img src="${item.image}" alt="${item.word}" class="word-img" onerror="this.src='${item.image_backup}'">
             <div>
                 <div class="word">${item.word}</div>
                 <div class="reading">${item.reading}</div>
@@ -117,6 +106,69 @@ function searchVocab() {
         `;
         container.appendChild(card);
     });
-    if (searchTerm !== "") document.getElementById('pagination-controls').innerHTML = '';
-    else updatePaginationButtons();
 }
+
+// --- ระบบเกม (Quiz Mode) ---
+
+let score = 0;
+let correctAnswer = null;
+
+function startGame() {
+    if (vocabData.length < 4) {
+        alert("ต้องมีคำศัพท์อย่างน้อย 4 คำเพื่อเล่นเกมครับ");
+        return;
+    }
+    score = 0;
+    document.getElementById('score-display').innerText = `คะแนน: ${score}`;
+    document.getElementById('game-container').style.display = 'block';
+    nextQuestion();
+}
+
+function nextQuestion() {
+    const choicesContainer = document.getElementById('choices-container');
+    choicesContainer.innerHTML = '';
+    
+    // สุ่มคำถาม
+    const randomIndex = Math.floor(Math.random() * vocabData.length);
+    correctAnswer = vocabData[randomIndex];
+    document.getElementById('target-word').innerText = correctAnswer.word;
+
+    // สร้างตัวเลือก 4 รูป
+    let choices = [correctAnswer];
+    while (choices.length < 4) {
+        let randomWrong = vocabData[Math.floor(Math.random() * vocabData.length)];
+        if (!choices.includes(randomWrong)) {
+            choices.push(randomWrong);
+        }
+    }
+    choices.sort(() => Math.random() - 0.5);
+
+    choices.forEach(item => {
+        const img = document.createElement('img');
+        img.src = item.image;
+        img.className = 'game-choice-img';
+        img.style = "width: 100%; height: 150px; object-fit: cover; border-radius: 15px; cursor: pointer; border: 4px solid #eee; transition: 0.3s;";
+        img.onclick = () => checkAnswer(item, img);
+        img.onerror = () => { img.src = item.image_backup; };
+        choicesContainer.appendChild(img);
+    });
+}
+
+function checkAnswer(selectedItem, element) {
+    if (selectedItem.word === correctAnswer.word) {
+        score++;
+        element.style.borderColor = "#4caf50";
+        document.getElementById('score-display').innerText = `คะแนน: ${score}`;
+        speakFull(correctAnswer.word, correctAnswer.meaning);
+        setTimeout(() => { nextQuestion(); }, 1000);
+    } else {
+        element.style.borderColor = "#ff5252";
+        element.style.opacity = "0.5";
+    }
+}
+
+function closeGame() {
+    document.getElementById('game-container').style.display = 'none';
+}
+
+window.onload = () => { loadVocab(currentDay); };

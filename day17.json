@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Eat", "reading": "อีท", "meaning": "กิน", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/09/30/child-2023447_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1153370/pexels-photo-1153370.jpeg"
+  },
+  { 
+    "word": "Drink", "reading": "ดริงก์", "meaning": "ดื่ม", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/12/30/beverage-1869516_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1204649/pexels-photo-1204649.jpeg"
+  },
+  { 
+    "word": "Sleep", "reading": "สลีพ", "meaning": "นอนหลับ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/14/05/10/children-1822666_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1028741/pexels-photo-1028741.jpeg"
+  },
+  { 
+    "word": "Walk", "reading": "วอล์ค", "meaning": "เดิน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/19/25/adult-1850177_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1466852/pexels-photo-1466852.jpeg"
+  },
+  { 
+    "word": "Run", "reading": "รัน", "meaning": "วิ่ง", 
+    "image": "https://cdn.pixabay.com/photo/2017/06/02/18/24/running-2367011_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/607492/pexels-photo-607492.jpeg"
+  },
+  { 
+    "word": "Jump", "reading": "จัมป์", "meaning": "กระโดด", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/15/44/boy-1835432_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/863977/pexels-photo-863977.jpeg"
+  },
+  { 
+    "word": "Read", "reading": "รีด", "meaning": "อ่าน", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/31/15/01/child-869207_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1741231/pexels-photo-1741231.jpeg"
+  },
+  { 
+    "word": "Write", "reading": "ไรท์", "meaning": "เขียน", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/31/15/02/girl-869213_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/210661/pexels-photo-210661.jpeg"
+  },
+  { 
+    "word": "Sit", "reading": "ซิท", "meaning": "นั่ง", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/01/08/29/woman-2563491_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3756774/pexels-photo-3756774.jpeg"
+  },
+  { 
+    "word": "Stand", "reading": "สแตนด์", "meaning": "ยืน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/19/07/happy-1836445_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1051544/pexels-photo-1051544.jpeg"
+  }
+]

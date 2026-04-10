@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Shirt", "reading": "เชิ้ต", "meaning": "เสื้อเชิ้ต", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/03/10/55/t-shirt-311732_1280.png",
+    "image_backup": "https://images.pexels.com/photos/2294342/pexels-photo-2294342.jpeg"
+  },
+  { 
+    "word": "Trousers", "reading": "เทรา-เซิร์ส", "meaning": "กางเกงขายาว", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/13/14/08/trousers-162182_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1598507/pexels-photo-1598507.jpeg"
+  },
+  { 
+    "word": "Skirt", "reading": "สเกิร์ต", "meaning": "กระโปรง", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/17/00/skirt-307675_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1007018/pexels-photo-1007018.jpeg"
+  },
+  { 
+    "word": "Dress", "reading": "เดรส", "meaning": "ชุดกระโปรงยาว", 
+    "image": "https://cdn.pixabay.com/photo/2016/06/25/20/40/wedding-dress-1479524_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg"
+  },
+  { 
+    "word": "Hat", "reading": "แฮท", "meaning": "หมวก", 
+    "image": "https://cdn.pixabay.com/photo/2017/05/13/12/40/fashion-2309519_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/35185/hat-fedora-clothing-accessory.jpg"
+  },
+  { 
+    "word": "Shoes", "reading": "ชูส์", "meaning": "รองเท้า", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/18/06/shoes-1840610_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/19090/pexels-photo.jpg"
+  },
+  { 
+    "word": "Socks", "reading": "ซ็อคส์", "meaning": "ถุงเท้า", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/10/01/24/socks-2616901_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/244487/pexels-photo-244487.jpeg"
+  },
+  { 
+    "word": "Belt", "reading": "เบลท์", "meaning": "เข็มขัด", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/10/40/belt-304245_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1727004/pexels-photo-1727004.jpeg"
+  },
+  { 
+    "word": "Watch", "reading": "ว็อทช์", "meaning": "นาฬิกาข้อมือ", 
+    "image": "https://cdn.pixabay.com/photo/2014/07/31/23/00/wristwatch-407096_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/277390/pexels-photo-277390.jpeg"
+  },
+  { 
+    "word": "Glasses", "reading": "กลาส-เซส", "meaning": "แว่นตา", 
+    "image": "https://cdn.pixabay.com/photo/2015/05/20/12/45/glasses-775434_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1499477/pexels-photo-1499477.jpeg"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Circle", "reading": "เซอร์-เคิล", "meaning": "วงกลม", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/31/15/33/circle-1293348_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1769408/pexels-photo-1769408.jpeg"
+  },
+  { 
+    "word": "Square", "reading": "สแควร์", "meaning": "สี่เหลี่ยมจัตุรัส", 
+    "image": "https://cdn.pixabay.com/photo/2012/04/11/17/25/shapes-29022_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1029604/pexels-photo-1029604.jpeg"
+  },
+  { 
+    "word": "Triangle", "reading": "ไทร-แอง-เกิล", "meaning": "สามเหลี่ยม", 
+    "image": "https://cdn.pixabay.com/photo/2012/04/13/00/22/triangle-31274_1280.png",
+    "image_backup": "https://images.pexels.com/photos/2014701/pexels-photo-2014701.jpeg"
+  },
+  { 
+    "word": "Rectangle", "reading": "เรค-แทน-เกิล", "meaning": "สี่เหลี่ยมผืนผ้า", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/10/37/rectangle-303957_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1420701/pexels-photo-1420701.jpeg"
+  },
+  { 
+    "word": "Star", "reading": "สตาร์", "meaning": "ดาว/รูปดาว", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/09/11/30/star-1130103_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1484771/pexels-photo-1484771.jpeg"
+  },
+  { 
+    "word": "Heart", "reading": "ฮาร์ท", "meaning": "หัวใจ/รูปหัวใจ", 
+    "image": "https://cdn.pixabay.com/photo/2016/02/07/19/48/heart-1185465_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1625037/pexels-photo-1625037.jpeg"
+  },
+  { 
+    "word": "Oval", "reading": "โอ-วอล", "meaning": "วงรี", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/10/44/egg-304412_1280.png",
+    "image_backup": "https://images.pexels.com/photos/203080/pexels-photo-203080.jpeg"
+  },
+  { 
+    "word": "Diamond", "reading": "ได-มอนด์", "meaning": "สี่เหลี่ยมขนมเปียกปูน/เพชร", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/10/38/diamond-303987_1280.png",
+    "image_backup": "https://images.pexels.com/photos/37851/diamond-gemstone-brilliant-gem-37851.jpeg"
+  },
+  { 
+    "word": "Cross", "reading": "ครอส", "meaning": "กากบาท/ไม้กางเขน", 
+    "image": "https://cdn.pixabay.com/photo/2012/04/12/20/12/x-30465_1280.png",
+    "image_backup": "https://images.pexels.com/photos/668278/pexels-photo-668278.jpeg"
+  },
+  { 
+    "word": "Arrow", "reading": "แอร์-โร่", "meaning": "ลูกศร", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/10/41/arrow-304279_1280.png",
+    "image_backup": "https://images.pexels.com/photos/33129/arrow-direction-one-way-sign.jpg"
+  }
+]

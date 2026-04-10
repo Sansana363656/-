@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Teacher", "reading": "ที-เชอร์", "meaning": "ครู", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/14/05/15/academic-1822683_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg"
+  },
+  { 
+    "word": "Doctor", "reading": "ด็อก-เทอร์", "meaning": "หมอ", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/29/21/16/nurse-2019420_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg"
+  },
+  { 
+    "word": "Nurse", "reading": "เนิร์ส", "meaning": "พยาบาล", 
+    "image": "https://cdn.pixabay.com/photo/2017/03/14/03/20/nurse-2141808_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3279203/pexels-photo-3279203.jpeg"
+  },
+  { 
+    "word": "Police", "reading": "พะ-ลิส", "meaning": "ตำรวจ", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/15/05/police-1149041_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/923681/pexels-photo-923681.jpeg"
+  },
+  { 
+    "word": "Farmer", "reading": "ฟาร์ม-เมอร์", "meaning": "ชาวนา/เกษตรกร", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/03/30/man-1867086_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2132180/pexels-photo-2132180.jpeg"
+  },
+  { 
+    "word": "Chef", "reading": "เชฟ", "meaning": "พ่อครัว", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/15/13/40/chef-569076_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/210607/pexels-photo-210607.jpeg"
+  },
+  { 
+    "word": "Pilot", "reading": "ไพ-ลัท", "meaning": "นักบิน", 
+    "image": "https://cdn.pixabay.com/photo/2015/11/03/10/23/pilot-1020279_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/163792/pilot-cockpit-flying-aircraft-163792.jpeg"
+  },
+  { 
+    "word": "Soldier", "reading": "โซล-เจอร์", "meaning": "ทหาร", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/15/28/soldier-1846002_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/942516/pexels-photo-942516.jpeg"
+  },
+  { 
+    "word": "Artist", "reading": "อาร์-ทิสต์", "meaning": "ศิลปิน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/15/30/painter-1853531_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg"
+  },
+  { 
+    "word": "Singer", "reading": "ซิง-เงอร์", "meaning": "นักร้อง", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/30/17/24/audience-868064_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4348093/pexels-photo-4348093.jpeg"
+  }
+]

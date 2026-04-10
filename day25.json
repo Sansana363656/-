@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Computer", "reading": "คอม-พิว-เทอร์", "meaning": "คอมพิวเตอร์", 
+    "image": "https://cdn.pixabay.com/photo/2014/09/24/14/29/macbook-459196_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg"
+  },
+  { 
+    "word": "Telephone", "reading": "เท-ละ-โฟน", "meaning": "โทรศัพท์", 
+    "image": "https://cdn.pixabay.com/photo/2014/07/31/23/10/phone-407130_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/209692/pexels-photo-209692.jpeg"
+  },
+  { 
+    "word": "Mobile phone", "reading": "โม-บาย โฟน", "meaning": "โทรศัพท์มือถือ", 
+    "image": "https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg"
+  },
+  { 
+    "word": "Tablet", "reading": "แท็บ-เล็ต", "meaning": "แท็บเล็ต", 
+    "image": "https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1334597/pexels-photo-1334597.jpeg"
+  },
+  { 
+    "word": "Television", "reading": "เท-ละ-วิ-ชัน", "meaning": "โทรทัศน์", 
+    "image": "https://cdn.pixabay.com/photo/2015/02/07/20/58/tv-627876_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1570639/pexels-photo-1570639.jpeg"
+  },
+  { 
+    "word": "Camera", "reading": "แคม-เมอ-ระ", "meaning": "กล้องถ่ายรูป", 
+    "image": "https://cdn.pixabay.com/photo/2014/08/29/14/53/camera-431119_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg"
+  },
+  { 
+    "word": "Headphones", "reading": "เฮด-โฟนส์", "meaning": "หูฟัง", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/27/15/31/headphones-581187_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/164843/pexels-photo-164843.jpeg"
+  },
+  { 
+    "word": "Keyboard", "reading": "คีย์-บอร์ด", "meaning": "แป้นพิมพ์", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/06/15/computer-1867731_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg"
+  },
+  { 
+    "word": "Mouse", "reading": "เมาส์", "meaning": "เมาส์คอมพิวเตอร์", 
+    "image": "https://cdn.pixabay.com/photo/2014/09/24/14/29/macbook-459196_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/635279/pexels-photo-635279.jpeg"
+  },
+  { 
+    "word": "Radio", "reading": "เร-ดิ-โอ", "meaning": "วิทยุ", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/14/15/05/radio-567954_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/63532/pexels-photo-63532.jpeg"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "School", "reading": "สกูล", "meaning": "โรงเรียน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/08/05/16/boy-1807545_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg"
+  },
+  { 
+    "word": "Hospital", "reading": "ฮอส-พิ-เทิล", "meaning": "โรงพยาบาล", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/02/15/30/doctor-1791831_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg"
+  },
+  { 
+    "word": "Market", "reading": "มาร์-เก็ต", "meaning": "ตลาด", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/07/19/07/flea-market-2606830_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/15964/pexels-photo.jpg"
+  },
+  { 
+    "word": "Park", "reading": "พาร์ค", "meaning": "สวนสาธารณะ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/16/04/tree-1835529_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/210158/pexels-photo-210158.jpeg"
+  },
+  { 
+    "word": "Temple", "reading": "เทม-เพิล", "meaning": "วัด", 
+    "image": "https://cdn.pixabay.com/photo/2016/07/04/10/34/thailand-1496362_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1007425/pexels-photo-1007425.jpeg"
+  },
+  { 
+    "word": "Library", "reading": "ไล-บระ-รี่", "meaning": "ห้องสมุด", 
+    "image": "https://cdn.pixabay.com/photo/2016/02/16/21/07/books-1204029_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg"
+  },
+  { 
+    "word": "Bank", "reading": "แบงก์", "meaning": "ธนาคาร", 
+    "image": "https://cdn.pixabay.com/photo/2015/01/28/05/10/skyline-614534_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/259209/pexels-photo-259209.jpeg"
+  },
+  { 
+    "word": "Police Station", "reading": "พะ-ลิส สเต-เชิน", "meaning": "สถานีตำรวจ", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/15/05/police-1149041_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/923681/pexels-photo-923681.jpeg"
+  },
+  { 
+    "word": "Post Office", "reading": "โพสต์ ออฟ-ฟิศ", "meaning": "ที่ทำการไปรษณีย์", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/13/11/47/mailbox-1137750_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1550562/pexels-photo-1550562.jpeg"
+  },
+  { 
+    "word": "Restaurant", "reading": "เรส-เตอ-รองต์", "meaning": "ร้านอาหาร", 
+    "image": "https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg"
+  }
+]

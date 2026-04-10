@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Play", "reading": "เพลย์", "meaning": "เล่น", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/05/11/adult-1867471_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1093157/pexels-photo-1093157.jpeg"
+  },
+  { 
+    "word": "Draw", "reading": "ดรอว์", "meaning": "วาดภาพ", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/31/15/01/child-869205_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/159823/kids-drawing-colorful-colourful-159823.jpeg"
+  },
+  { 
+    "word": "Sing", "reading": "ซิง", "meaning": "ร้องเพลง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/15/44/boy-1835431_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/34768/microphone-music-concert-singers.jpg"
+  },
+  { 
+    "word": "Dance", "reading": "แดนซ์", "meaning": "เต้น", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/13/36/ballerina-1834575_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1701202/pexels-photo-1701202.jpeg"
+  },
+  { 
+    "word": "Listen", "reading": "ลิส-ซึ่น", "meaning": "ฟัง", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/27/15/31/girl-581188_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/164843/pexels-photo-164843.jpeg"
+  },
+  { 
+    "word": "Watch", "reading": "วอทช์", "meaning": "ดู/จ้องมอง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/5444933/pexels-photo-5444933.jpeg"
+  },
+  { 
+    "word": "Open", "reading": "โอ-เพิ่น", "meaning": "เปิด", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/02/01/01/living-room-2569325_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1111272/pexels-photo-1111272.jpeg"
+  },
+  { 
+    "word": "Close", "reading": "โคลส", "meaning": "ปิด", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/17/22/43/human-849811_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1111267/pexels-photo-1111267.jpeg"
+  },
+  { 
+    "word": "Talk", "reading": "ทอล์ค", "meaning": "พูดคุย", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/03/40/beautiful-1867117_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1181712/pexels-photo-1181712.jpeg"
+  },
+  { 
+    "word": "Smile", "reading": "สไมล์", "meaning": "ยิ้ม", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/01/16/boy-1866497_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg"
+  }
+]

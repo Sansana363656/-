@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Book", "reading": "บุ๊ค", "meaning": "หนังสือ", 
+    "image": "https://cdn.pixabay.com/photo/2016/02/16/21/07/books-1204029_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg"
+  },
+  { 
+    "word": "Pencil", "reading": "เพ็น-เซิล", "meaning": "ดินสอ", 
+    "image": "https://cdn.pixabay.com/photo/2012/04/12/20/12/pencils-30462_1280.png",
+    "image_backup": "https://images.pexels.com/photos/159752/pencil-office-supplies-stationery-159752.jpeg"
+  },
+  { 
+    "word": "Pen", "reading": "เพ็น", "meaning": "ปากกา", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/15/44/fountain-pen-1149258_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/844167/pexels-photo-844167.jpeg"
+  },
+  { 
+    "word": "Eraser", "reading": "อิ-เร-เซ่อร์", "meaning": "ยางลบ", 
+    "image": "https://cdn.pixabay.com/photo/2018/08/31/11/17/school-3644404_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/35202/eraser-office-supplies-stationery-clean.jpg"
+  },
+  { 
+    "word": "Ruler", "reading": "รู-เล่อร์", "meaning": "ไม้บรรทัด", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/03/10/37/ruler-310931_1280.png",
+    "image_backup": "https://images.pexels.com/photos/5905610/pexels-photo-5905610.jpeg"
+  },
+  { 
+    "word": "Bag", "reading": "แบ็ก", "meaning": "กระเป๋า", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/22/00/03/school-bag-576625_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg"
+  },
+  { 
+    "word": "Chair", "reading": "แชร์", "meaning": "เก้าอี้", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/06/12/28/chair-2591959_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/116910/pexels-photo-116910.jpeg"
+  },
+  { 
+    "word": "Table", "reading": "เท-เบิล", "meaning": "โต๊ะ", 
+    "image": "https://cdn.pixabay.com/photo/2017/03/28/12/10/chairs-2181916_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2097118/pexels-photo-2097118.jpeg"
+  },
+  { 
+    "word": "Computer", "reading": "คอม-พิว-เท่อร์", "meaning": "คอมพิวเตอร์", 
+    "image": "https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4145190/pexels-photo-4145190.jpeg"
+  },
+  { 
+    "word": "Whiteboard", "reading": "ไวท์-บอร์ด", "meaning": "กระดานไวท์บอร์ด", 
+    "image": "https://cdn.pixabay.com/photo/2014/03/25/16/32/classroom-297298_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/6238120/pexels-photo-6238120.jpeg"
+  }
+]

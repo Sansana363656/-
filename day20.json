@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Guitar", "reading": "กี-ตาร์", "meaning": "กีตาร์", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/12/15/06/guitar-149427_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1010519/pexels-photo-1010519.jpeg"
+  },
+  { 
+    "word": "Piano", "reading": "พี-แอน-โน", "meaning": "เปียโน", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/01/01/05/piano-2562291_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg"
+  },
+  { 
+    "word": "Drum", "reading": "ดรัม", "meaning": "กลอง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/13/57/drum-set-1839383_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg"
+  },
+  { 
+    "word": "Violin", "reading": "ไว-โอ-ลิน", "meaning": "ไวโอลิน", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/13/10/06/violin-156558_1280.png",
+    "image_backup": "https://images.pexels.com/photos/462447/pexels-photo-462447.jpeg"
+  },
+  { 
+    "word": "Flute", "reading": "ฟลูท", "meaning": "ขลุ่ย", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/13/46/hand-1870020_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1039083/pexels-photo-1039083.jpeg"
+  },
+  { 
+    "word": "Trumpet", "reading": "ทรัม-เพ็ต", "meaning": "ทรัมเป็ต", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/03/10/40/trumpet-311099_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1652361/pexels-photo-1652361.jpeg"
+  },
+  { 
+    "word": "Xylophone", "reading": "ไซ-โล-โฟน", "meaning": "ระนาด", 
+    "image": "https://cdn.pixabay.com/photo/2015/10/31/11/59/musical-instrument-1015609_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/101533/pexels-photo-101533.jpeg"
+  },
+  { 
+    "word": "Accordion", "reading": "แอ็ค-คอร์-เดียน", "meaning": "หีบเพลงชัก", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/21/24/accordion-1850588_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/164829/pexels-photo-164829.jpeg"
+  },
+  { 
+    "word": "Harp", "reading": "ฮาร์พ", "meaning": "พิณฝรั่ง", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/12/17/58/harp-152763_1280.png",
+    "image_backup": "https://images.pexels.com/photos/164925/pexels-photo-164925.jpeg"
+  },
+  { 
+    "word": "Microphone", "reading": "ไม-โคร-โฟน", "meaning": "ไมโครโฟน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/15/44/boy-1835431_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/34768/microphone-music-concert-singers.jpg"
+  }
+]

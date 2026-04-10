@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Climb", "reading": "ไคลมบ์", "meaning": "ปีน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/14/15/climbing-1834830_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/305244/pexels-photo-305244.jpeg"
+  },
+  { 
+    "word": "Crawl", "reading": "ครอล", "meaning": "คลาน", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/21/23/31/baby-575713_1280.png",
+    "image_backup": "https://images.pexels.com/photos/3932924/pexels-photo-3932924.jpeg"
+  },
+  { 
+    "word": "Fly", "reading": "ฟลาย", "meaning": "บิน", 
+    "image": "https://cdn.pixabay.com/photo/2014/03/05/16/09/stork-280451_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/162339/bird-owl-nature-animal-162339.jpeg"
+  },
+  { 
+    "word": "Swim", "reading": "สวิม", "meaning": "ว่ายน้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/08/05/00/ice-1807514_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/863977/pexels-photo-863977.jpeg"
+  },
+  { 
+    "word": "Dance", "reading": "แดนซ์", "meaning": "เต้นรำ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/13/36/ballerina-1834575_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1701202/pexels-photo-1701202.jpeg"
+  },
+  { 
+    "word": "Push", "reading": "พุช", "meaning": "ผลัก/ดัน", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/02/10/16/man-828698_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/6321482/pexels-photo-6321482.jpeg"
+  },
+  { 
+    "word": "Pull", "reading": "พูล", "meaning": "ดึง", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/02/10/16/man-828701_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/6321487/pexels-photo-6321487.jpeg"
+  },
+  { 
+    "word": "Throw", "reading": "โธรว์", "meaning": "ขว้าง/โยน", 
+    "image": "https://cdn.pixabay.com/photo/2016/06/15/15/02/baseball-1459201_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg"
+  },
+  { 
+    "word": "Catch", "reading": "แคทช์", "meaning": "รับ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/16/04/boy-1835529_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/6114406/pexels-photo-6114406.jpeg"
+  },
+  { 
+    "word": "Kick", "reading": "คิก", "meaning": "เตะ", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/27/22/16/soccer-1284487_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/159515/football-american-football-runner-player-159515.jpeg"
+  }
+]

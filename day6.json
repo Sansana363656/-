@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Head", "reading": "เฮด", "meaning": "ศีรษะ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/03/36/woman-1867093_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3771057/pexels-photo-3771057.jpeg"
+  },
+  { 
+    "word": "Eye", "reading": "อาย", "meaning": "ตา", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/10/21/05/eye-1132531_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1161932/pexels-photo-1161932.jpeg"
+  },
+  { 
+    "word": "Ear", "reading": "เอียร์", "meaning": "หู", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/05/11/adult-1867471_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3920015/pexels-photo-3920015.jpeg"
+  },
+  { 
+    "word": "Nose", "reading": "โนส", "meaning": "จมูก", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/11/33/girl-1844819_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/10331003/pexels-photo-10331003.jpeg"
+  },
+  { 
+    "word": "Mouth", "reading": "เมาธ์", "meaning": "ปาก", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/31/15/02/girl-869213_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3356416/pexels-photo-3356416.jpeg"
+  },
+  { 
+    "word": "Hand", "reading": "แฮนด์", "meaning": "มือ", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/14/10/03/hand-1979149_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2569470/pexels-photo-2569470.jpeg"
+  },
+  { 
+    "word": "Arm", "reading": "อาร์ม", "meaning": "แขน", 
+    "image": "https://cdn.pixabay.com/photo/2015/07/24/13/20/arm-858341_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4324101/pexels-photo-4324101.jpeg"
+  },
+  { 
+    "word": "Leg", "reading": "เลก", "meaning": "ขา", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/27/17/40/legs-1283234_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3757362/pexels-photo-3757362.jpeg"
+  },
+  { 
+    "word": "Foot", "reading": "ฟุต", "meaning": "เท้า", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/18/19/feet-1854175_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3651136/pexels-photo-3651136.jpeg"
+  },
+  { 
+    "word": "Hair", "reading": "แฮร์", "meaning": "ผม", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/23/15/00/ice-1274896_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3331451/pexels-photo-3331451.jpeg"
+  }
+]

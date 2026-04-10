@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Car", "reading": "คาร์", "meaning": "รถยนต์", 
+    "image": "https://cdn.pixabay.com/photo/2012/04/12/23/48/car-30990_1280.png",
+    "image_backup": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg"
+  },
+  { 
+    "word": "Bicycle", "reading": "ไบ-ซิ-เคิล", "meaning": "จักรยาน", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/13/13/46/bicycle-161524_1280.png",
+    "image_backup": "https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg"
+  },
+  { 
+    "word": "Motorcycle", "reading": "โม-เทอร์-ไซ-เคิล", "meaning": "รถจักรยานยนต์", 
+    "image": "https://cdn.pixabay.com/photo/2016/04/07/06/53/bmw-1313343_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1413412/pexels-photo-1413412.jpeg"
+  },
+  { 
+    "word": "Bus", "reading": "บัส", "meaning": "รถโดยสารประจำทาง", 
+    "image": "https://cdn.pixabay.com/photo/2015/09/09/19/54/school-bus-933333_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/385997/pexels-photo-385997.jpeg"
+  },
+  { 
+    "word": "Train", "reading": "เทรน", "meaning": "รถไฟ", 
+    "image": "https://cdn.pixabay.com/photo/2014/10/07/21/51/bullet-train-478332_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/72594/japan-train-railway-railroad-72594.jpeg"
+  },
+  { 
+    "word": "Airplane", "reading": "แอร์-เพลน", "meaning": "เครื่องบิน", 
+    "image": "https://cdn.pixabay.com/photo/2014/05/03/01/02/flying-336712_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg"
+  },
+  { 
+    "word": "Boat", "reading": "โบท", "meaning": "เรือ", 
+    "image": "https://cdn.pixabay.com/photo/2014/08/26/15/45/boat-428131_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/163236/pexels-photo-163236.jpeg"
+  },
+  { 
+    "word": "Helicopter", "reading": "เฮ-ลิ-คอป-เทอร์", "meaning": "เฮลิคอปเตอร์", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/14/03/48/helicopter-530182_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/159201/helicopter-flying-sky-take-off-159201.jpeg"
+  },
+  { 
+    "word": "Ambulance", "reading": "แอม-บิว-แลนซ์", "meaning": "รถพยาบาล", 
+    "image": "https://cdn.pixabay.com/photo/2016/02/19/11/17/ambulance-1209631_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/668300/pexels-photo-668300.jpeg"
+  },
+  { 
+    "word": "Truck", "reading": "ทรัค", "meaning": "รถบรรทุก", 
+    "image": "https://cdn.pixabay.com/photo/2017/06/23/11/14/delivery-truck-2434310_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2199293/pexels-photo-2199293.jpeg"
+  }
+]

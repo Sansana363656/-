@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Tree", "reading": "ทรี", "meaning": "ต้นไม้", 
+    "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1632790/pexels-photo-1632790.jpeg"
+  },
+  { 
+    "word": "Flower", "reading": "ฟลาว-เว่อร์", "meaning": "ดอกไม้", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/21/13/24/rose-165819_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg"
+  },
+  { 
+    "word": "Leaf", "reading": "ลีฟ", "meaning": "ใบไม้", 
+    "image": "https://cdn.pixabay.com/photo/2012/12/24/08/39/autumn-72179_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1379636/pexels-photo-1379636.jpeg"
+  },
+  { 
+    "word": "Mountain", "reading": "เมาน์-เทิน", "meaning": "ภูเขา", 
+    "image": "https://cdn.pixabay.com/photo/2016/08/07/15/02/blue-ridge-mountains-1576409_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg"
+  },
+  { 
+    "word": "River", "reading": "ริ-เว่อร์", "meaning": "แม่น้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2015/06/19/21/24/avenue-815297_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3223424/pexels-photo-3223424.jpeg"
+  },
+  { 
+    "word": "Sea", "reading": "ซี", "meaning": "ทะเล", 
+    "image": "https://cdn.pixabay.com/photo/2015/03/16/10/59/sunset-675847_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1001709/pexels-photo-1001709.jpeg"
+  },
+  { 
+    "word": "Stone", "reading": "สโตน", "meaning": "ก้อนหิน", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/05/19/31/rock-518250_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/355411/pexels-photo-355411.jpeg"
+  },
+  { 
+    "word": "Grass", "reading": "กราส", "meaning": "หญ้า", 
+    "image": "https://cdn.pixabay.com/photo/2014/08/25/11/48/grass-427125_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/414453/pexels-photo-414453.jpeg"
+  },
+  { 
+    "word": "Forest", "reading": "ฟอ-เรสต์", "meaning": "ป่าไม้", 
+    "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/forest-1072828_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg"
+  },
+  { 
+    "word": "Waterfall", "reading": "วอ-เทอร์-ฟอล", "meaning": "น้ำตก", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/14/03/38/cliff-1822521_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/158398/niagara-falls-waterfall-water-marine-158398.jpeg"
+  }
+]

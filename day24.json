@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Sweep", "reading": "สวีพ", "meaning": "กวาดบ้าน", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/15/07/man-1149068_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg"
+  },
+  { 
+    "word": "Mop", "reading": "ม็อพ", "meaning": "ถูพื้น", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/02/10/41/floor-513639_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4099469/pexels-photo-4099469.jpeg"
+  },
+  { 
+    "word": "Wash", "reading": "วอช", "meaning": "ซัก/ล้าง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/5217899/pexels-photo-5217899.jpeg"
+  },
+  { 
+    "word": "Cook", "reading": "คุ้ก", "meaning": "ทำอาหาร", 
+    "image": "https://cdn.pixabay.com/photo/2015/09/02/12/41/chef-918664_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2284166/pexels-photo-2284166.jpeg"
+  },
+  { 
+    "word": "Clean", "reading": "คลีน", "meaning": "ทำความสะอาด", 
+    "image": "https://cdn.pixabay.com/photo/2017/05/17/21/53/cleaning-2321949_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4098524/pexels-photo-4098524.jpeg"
+  },
+  { 
+    "word": "Dust", "reading": "ดัสท์", "meaning": "ปัดฝุ่น", 
+    "image": "https://cdn.pixabay.com/photo/2014/04/05/11/06/man-314481_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4098528/pexels-photo-4098528.jpeg"
+  },
+  { 
+    "word": "Iron", "reading": "ไอ-เอิร์น", "meaning": "รีดผ้า", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/27/15/41/ironing-581206_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4553277/pexels-photo-4553277.jpeg"
+  },
+  { 
+    "word": "Dry", "reading": "ดราย", "meaning": "ทำให้แห้ง/ตากผ้า", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/10/01/clothes-1868884_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/5591581/pexels-photo-5591581.jpeg"
+  },
+  { 
+    "word": "Water the plants", "reading": "วอ-เทอร์ เดอะ แพลนท์ส", "meaning": "รดน้ำต้นไม้", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/16/06/tree-1835543_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4505171/pexels-photo-4505171.jpeg"
+  },
+  { 
+    "word": "Feed", "reading": "ฟีด", "meaning": "ให้อาหาร (สัตว์)", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/14/06/dog-1834749_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/5711905/pexels-photo-5711905.jpeg"
+  }
+]

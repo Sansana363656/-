@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Rice", "reading": "ไรซ์", "meaning": "ข้าว", 
+    "image": "https://cdn.pixabay.com/photo/2016/02/29/05/46/rice-1228005_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4110251/pexels-photo-4110251.jpeg"
+  },
+  { 
+    "word": "Bread", "reading": "เบรด", "meaning": "ขนมปัง", 
+    "image": "https://cdn.pixabay.com/photo/2014/07/22/09/59/bread-399286_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/209206/pexels-photo-209206.jpeg"
+  },
+  { 
+    "word": "Egg", "reading": "เอ้ก", "meaning": "ไข่", 
+    "image": "https://cdn.pixabay.com/photo/2016/07/05/15/45/eggs-1498914_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/162712/pexels-photo-162712.jpeg"
+  },
+  { 
+    "word": "Noodles", "reading": "นู้ด-เดิลส์", "meaning": "ก๋วยเตี๋ยว/บะหมี่", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/05/15/57/soup-518014_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1901291/pexels-photo-1901291.jpeg"
+  },
+  { 
+    "word": "Milk", "reading": "มิลค์", "meaning": "นม", 
+    "image": "https://cdn.pixabay.com/photo/2017/07/05/15/41/milk-2474993_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg"
+  },
+  { 
+    "word": "Water", "reading": "วอ-เทอร์", "meaning": "น้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2016/06/30/19/21/water-1489705_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg"
+  },
+  { 
+    "word": "Pizza", "reading": "พิซ-ซ่า", "meaning": "พิซซ่า", 
+    "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg"
+  },
+  { 
+    "word": "Cake", "reading": "เค้ก", "meaning": "เค้ก", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/18/52/cake-1850011_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2144671/pexels-photo-2144671.jpeg"
+  },
+  { 
+    "word": "Chocolate", "reading": "ช็อก-โก-แลต", "meaning": "ช็อกโกแลต", 
+    "image": "https://cdn.pixabay.com/photo/2015/10/25/11/24/chocolate-1005658_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/65882/chocolate-dark-chocolate-bitter-chocolate-candy-65882.jpeg"
+  },
+  { 
+    "word": "Ice cream", "reading": "ไอซ์-ครีม", "meaning": "ไอศกรีม", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/31/19/22/ice-cream-1294943_1280.png",
+    "image_backup": "https://images.pexels.com/photos/1352251/pexels-photo-1352251.jpeg"
+  }
+]

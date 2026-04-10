@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Happy", "reading": "แฮพ-พี้", "meaning": "มีความสุข", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/01/16/boy-1866497_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/160633/pexels-photo-160633.jpeg"
+  },
+  { 
+    "word": "Sad", "reading": "แซด", "meaning": "เศร้า", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/26/15/20/girl-546419_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg"
+  },
+  { 
+    "word": "Angry", "reading": "แอง-กรี้", "meaning": "โกรธ", 
+    "image": "https://cdn.pixabay.com/photo/2015/09/02/13/24/girl-919048_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3807738/pexels-photo-3807738.jpeg"
+  },
+  { 
+    "word": "Sleepy", "reading": "สลีพ-พี้", "meaning": "ง่วงนอน", 
+    "image": "https://cdn.pixabay.com/photo/2015/12/10/21/20/girl-1087342_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/935737/pexels-photo-935737.jpeg"
+  },
+  { 
+    "word": "Surprised", "reading": "เซอร์-ไพรส์ด", "meaning": "ประหลาดใจ", 
+    "image": "https://cdn.pixabay.com/photo/2017/04/10/08/13/boy-2217732_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3762800/pexels-photo-3762800.jpeg"
+  },
+  { 
+    "word": "Hungry", "reading": "ฮัง-กรี้", "meaning": "หิว", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/17/36/boy-1149791_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3663046/pexels-photo-3663046.jpeg"
+  },
+  { 
+    "word": "Thirsty", "reading": "เธิร์ส-ตี้", "meaning": "หิวน้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2015/09/02/12/35/girl-918635_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1204649/pexels-photo-1204649.jpeg"
+  },
+  { 
+    "word": "Scared", "reading": "สแคร์ด", "meaning": "กลัว", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/21/11/33/girl-1844819_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1161376/pexels-photo-1161376.jpeg"
+  },
+  { 
+    "word": "Bored", "reading": "บอร์ด", "meaning": "เบื่อ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/13/46/hand-1870023_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/935985/pexels-photo-935985.jpeg"
+  },
+  { 
+    "word": "Tired", "reading": "ไท-เอิร์ด", "meaning": "เหนื่อย", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/01/21/41/sweat-2568285_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/256517/pexels-photo-256517.jpeg"
+  }
+]

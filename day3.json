@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Football", "reading": "ฟุต-บอล", "meaning": "ฟุตบอล", 
+    "image": "https://cdn.pixabay.com/photo/2016/05/20/21/57/football-1406106_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4673433/pexels-photo-4673433.jpeg"
+  },
+  { 
+    "word": "Basketball", "reading": "บาส-เกต-บอล", "meaning": "บาสเกตบอล", 
+    "image": "https://cdn.pixabay.com/photo/2012/11/28/10/16/basketball-67568_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg"
+  },
+  { 
+    "word": "Badminton", "reading": "แบด-มิน-ตัน", "meaning": "แบดมินตัน", 
+    "image": "https://cdn.pixabay.com/photo/2016/05/31/23/21/badminton-1428046_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3660204/pexels-photo-3660204.jpeg"
+  },
+  { 
+    "word": "Swimming", "reading": "สวิม-มิ่ง", "meaning": "การว่ายน้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/01/01/28/pool-2562473_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/863988/pexels-photo-863988.jpeg"
+  },
+  { 
+    "word": "Running", "reading": "รัน-นิ่ง", "meaning": "การวิ่ง", 
+    "image": "https://cdn.pixabay.com/photo/2017/06/02/18/24/running-2367011_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/607492/pexels-photo-607492.jpeg"
+  },
+  { 
+    "word": "Cycling", "reading": "ไซ-คลิง", "meaning": "การปั่นจักรยาน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/10/36/road-1833925_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/100582/pexels-photo-100582.jpeg"
+  },
+  { 
+    "word": "Boxing", "reading": "บ็อก-ซิ่ง", "meaning": "มวย", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/13/28/boxing-1834493_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4761779/pexels-photo-4761779.jpeg"
+  },
+  { 
+    "word": "Tennis", "reading": "เทน-นิส", "meaning": "เทนนิส", 
+    "image": "https://cdn.pixabay.com/photo/2020/06/01/17/58/tennis-5247653_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg"
+  },
+  { 
+    "word": "Volleyball", "reading": "วอล-เลย์-บอล", "meaning": "วอลเลย์บอล", 
+    "image": "https://cdn.pixabay.com/photo/2016/06/30/11/30/beach-volleyball-1488851_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1263426/pexels-photo-1263426.jpeg"
+  },
+  { 
+    "word": "Yoga", "reading": "โย-คะ", "meaning": "โยคะ", 
+    "image": "https://cdn.pixabay.com/photo/2018/01/01/01/56/yoga-3053488_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3822622/pexels-photo-3822622.jpeg"
+  }
+]

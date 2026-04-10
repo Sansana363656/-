@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Red", "reading": "เรด", "meaning": "สีแดง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/13/46/apple-1834639_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/39566/strawberry-fruit-red-sweet-39566.jpeg"
+  },
+  { 
+    "word": "Blue", "reading": "บลู", "meaning": "สีฟ้า/น้ำเงิน", 
+    "image": "https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1001709/pexels-photo-1001709.jpeg"
+  },
+  { 
+    "word": "Green", "reading": "กรีน", "meaning": "สีเขียว", 
+    "image": "https://cdn.pixabay.com/photo/2012/03/01/00/55/garden-19830_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg"
+  },
+  { 
+    "word": "Yellow", "reading": "เยล-โล่", "meaning": "สีเหลือง", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/05/13/50/flower-1122537_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/221447/pexels-photo-221447.jpeg"
+  },
+  { 
+    "word": "Pink", "reading": "พิงค์", "meaning": "สีชมพู", 
+    "image": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg"
+  },
+  { 
+    "word": "Orange", "reading": "ออ-เรนจ์", "meaning": "สีส้ม", 
+    "image": "https://cdn.pixabay.com/photo/2017/02/26/12/27/oranges-2100108_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/161559/orange-fruit-vitamins-healthy-eating-161559.jpeg"
+  },
+  { 
+    "word": "Purple", "reading": "เพอร์-เพิล", "meaning": "สีม่วง", 
+    "image": "https://cdn.pixabay.com/photo/2015/06/24/13/32/lavender-820202_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg"
+  },
+  { 
+    "word": "Black", "reading": "แบล็ก", "meaning": "สีดำ", 
+    "image": "https://cdn.pixabay.com/photo/2015/03/26/09/41/tie-690084_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/963278/pexels-photo-963278.jpeg"
+  },
+  { 
+    "word": "White", "reading": "ไวท์", "meaning": "สีขาว", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/16/20/cup-1835614_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg"
+  },
+  { 
+    "word": "Brown", "reading": "บราวน์", "meaning": "สีน้ำตาล", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/14/37/coffee-1853261_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2724664/pexels-photo-2724664.jpeg"
+  }
+]

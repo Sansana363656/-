@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Moon", "reading": "มูน", "meaning": "พระจันทร์", 
+    "image": "https://cdn.pixabay.com/photo/2016/09/08/22/43/moon-1655813_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/47367/full-moon-moon-bright-sky-47367.jpeg"
+  },
+  { 
+    "word": "Star", "reading": "สตาร์", "meaning": "ดวงดาว", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/13/46/stars-1870025_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1906658/pexels-photo-1906658.jpeg"
+  },
+  { 
+    "word": "Sky", "reading": "สกาย", "meaning": "ท้องฟ้า", 
+    "image": "https://cdn.pixabay.com/photo/2014/08/15/11/29/sky-418721_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg"
+  },
+  { 
+    "word": "Earth", "reading": "เอิร์ธ", "meaning": "โลก", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/17/29/earth-1149733_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg"
+  },
+  { 
+    "word": "Planet", "reading": "แพลน-เน็ต", "meaning": "ดาวเคราะห์", 
+    "image": "https://cdn.pixabay.com/photo/2011/12/13/14/31/earth-11015_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/39561/solar-system-planets-neptune-mars-39561.jpeg"
+  },
+  { 
+    "word": "Rocket", "reading": "ร็อก-เก็ต", "meaning": "จรวด", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/586030/pexels-photo-586030.jpeg"
+  },
+  { 
+    "word": "Astronaut", "reading": "แอส-โทร-นอท", "meaning": "นักบินอวกาศ", 
+    "image": "https://cdn.pixabay.com/photo/2011/12/14/12/17/astronaut-11080_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/73910/mars-discovery-space-shuttle-73910.jpeg"
+  },
+  { 
+    "word": "Comet", "reading": "คอ-เม็ต", "meaning": "ดาวหาง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/16/04/stars-1835528_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4014919/pexels-photo-4014919.jpeg"
+  },
+  { 
+    "word": "Alien", "reading": "เอ-เลียน", "meaning": "มนุษย์ต่างดาว", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/15/34/alien-2025114_1280.png",
+    "image_backup": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg"
+  },
+  { 
+    "word": "Telescope", "reading": "เท-ละ-สโคป", "meaning": "กล้องโทรทรรศน์", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/12/48/star-gazer-1839116_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/211122/pexels-photo-211122.jpeg"
+  }
+]

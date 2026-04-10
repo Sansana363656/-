@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Lion", "reading": "ไล-อึน", "meaning": "สิงโต", 
+    "image": "https://cdn.pixabay.com/photo/2014/10/22/17/25/lion-498245_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1598377/pexels-photo-1598377.jpeg"
+  },
+  { 
+    "word": "Tiger", "reading": "ไท-เก้อร์", "meaning": "เสือ", 
+    "image": "https://cdn.pixabay.com/photo/2017/07/24/19/57/tiger-2535888_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/792381/pexels-photo-792381.jpeg"
+  },
+  { 
+    "word": "Giraffe", "reading": "จิ-ราฟ", "meaning": "ยีราฟ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/22/33/giraffe-1850953_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/806441/pexels-photo-806441.jpeg"
+  },
+  { 
+    "word": "Zebra", "reading": "ซี-บร้า", "meaning": "ม้าลาย", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/15/15/57/zebra-2644408_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/208821/pexels-photo-208821.jpeg"
+  },
+  { 
+    "word": "Monkey", "reading": "มั้ง-คี่", "meaning": "ลิง", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/10/09/monkey-1868911_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/40602/monkey-chimpanzee-thinking-frown-40602.jpeg"
+  },
+  { 
+    "word": "Rabbit", "reading": "แร้บ-บิท", "meaning": "กระต่าย", 
+    "image": "https://cdn.pixabay.com/photo/2016/12/13/22/39/animal-1905332_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/326012/pexels-photo-326012.jpeg"
+  },
+  { 
+    "word": "Bird", "reading": "เบิร์ด", "meaning": "นก", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/23/14/57/kingfisher-1853366_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/326900/pexels-photo-326900.jpeg"
+  },
+  { 
+    "word": "Panda", "reading": "แพน-ด้า", "meaning": "แพนด้า", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/04/22/54/panda-1236875_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg"
+  },
+  { 
+    "word": "Bear", "reading": "แบร์", "meaning": "หมี", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/14/04/32/bear-1822609_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/158109/brown-bear-bear-full-grown-dangerous-158109.jpeg"
+  },
+  { 
+    "word": "Dolphin", "reading": "ดอล-ฟิน", "meaning": "โลมา", 
+    "image": "https://cdn.pixabay.com/photo/2017/01/18/16/51/dolphin-1990263_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg"
+  }
+]

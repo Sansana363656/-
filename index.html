@@ -1,34 +1,49 @@
 <!DOCTYPE html>
 <html lang="th">
 <head>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;700&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📸 Visual Vocab ของคุณอ้วน</title>
+    <title>แอปคำศัพท์ภาษาอังกฤษของคุณครูอ้วน</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>📸 พจนานุกรมภาพ</h1>
-        
-        <div class="controls">
-            <div class="day-selector">
-                <input type="number" id="dayInput" value="1" min="1">
-                <button onclick="loadVocab()">ดึงข้อมูล 🚀</button>
-            </div>
-            
-            <div class="day-navigation" style="margin-top: 15px;">
-                <button onclick="changeDay(-1)" style="background: #ff9800;">⬅️ วันก่อนหน้า</button>
-                <button onclick="changeDay(1)" style="background: #ff9800;">วันถัดไป ➡️</button>
-            </div>
 
-            <div style="margin-top: 20px;">
-                <input type="text" id="searchInput" onkeyup="searchVocab()" placeholder="🔍 ค้นหาคำศัพท์...">
-            </div>
+    <header>
+        <h1>📚 คลังคำศัพท์ภาษาอังกฤษ</h1>
+        
+        <div class="day-selector">
+            <button onclick="changeDay(-1)" class="btn-day">⬅️ เมื่อวาน</button>
+            <span id="current-day-display" class="current-day">กำลังโหลด...</span>
+            <button onclick="changeDay(1)" class="btn-day">วันถัดไป ➡️</button>
         </div>
 
-        <div id="vocab-container" class="grid-container"></div>
-        <div id="pagination-controls"></div>
+        <div class="search-box">
+            <input type="text" id="searchInput" placeholder="ค้นหาคำศัพท์ หรือ ความหมาย..." onkeyup="searchVocab()">
+        </div>
+    </header>
+
+    <main>
+        <div id="vocab-container" class="container"></div>
+
+        <div id="pagination-controls" class="pagination"></div>
+        <div style="text-align: center; margin-top: 20px;">
+    <button id="btn-start-game" onclick="startGame()" style="background: #2196F3; color: white; padding: 15px 30px; border-radius: 30px; border: none; font-size: 1.2rem; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">🎮 เล่นเกมทายภาพ (จากคำศัพท์วันนี้)</button>
+</div>
+
+<div id="game-container" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: white; z-index: 2000; padding: 20px; text-align: center; overflow-y: auto;">
+    <div style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: 0 auto;">
+        <h2 id="score-display">คะแนน: 0</h2>
+        <button onclick="closeGame()" style="background: #ff5252; color: white; border: none; padding: 5px 15px; border-radius: 10px;">ปิดเกม</button>
     </div>
+    
+    <h1 style="margin: 20px 0; color: #ff9800;">คำนี้คือภาพไหน?</h1>
+    <div id="target-word" style="font-size: 3rem; font-weight: bold; color: #333; margin-bottom: 30px; background: #f0f0f0; padding: 20px; border-radius: 15px; display: inline-block; min-width: 200px;"></div>
+    
+    <div id="choices-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; max-width: 500px; margin: 0 auto;">
+        </div>
+</div>
+    </main>
 
     <script src="script.js"></script>
 </body>

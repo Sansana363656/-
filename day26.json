@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Doll", "reading": "ดอลล์", "meaning": "ตุ๊กตา", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/12/34/doll-1839046_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1162983/pexels-photo-1162983.jpeg"
+  },
+  { 
+    "word": "Toy car", "reading": "ทอย คาร์", "meaning": "รถของเล่น", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/14/03/34/toy-530182_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/35967/mini-cooper-red-model-car-discontinued.jpg"
+  },
+  { 
+    "word": "Ball", "reading": "บอล", "meaning": "ลูกบอล", 
+    "image": "https://cdn.pixabay.com/photo/2016/03/31/19/58/ball-1295429_1280.png",
+    "image_backup": "https://images.pexels.com/photos/209841/pexels-photo-209841.jpeg"
+  },
+  { 
+    "word": "Balloon", "reading": "บัล-ลูน", "meaning": "ลูกโป่ง", 
+    "image": "https://cdn.pixabay.com/photo/2014/10/07/11/49/balloons-477543_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3419639/pexels-photo-3419639.jpeg"
+  },
+  { 
+    "word": "Robot", "reading": "โร-บอท", "meaning": "หุ่นยนต์", 
+    "image": "https://cdn.pixabay.com/photo/2017/04/04/21/21/robot-2203189_1280.png",
+    "image_backup": "https://images.pexels.com/photos/3663060/pexels-photo-3663060.jpeg"
+  },
+  { 
+    "word": "Puzzle", "reading": "พัซ-เซิล", "meaning": "จิ๊กซอว์/ตัวต่อปริศนา", 
+    "image": "https://cdn.pixabay.com/photo/2017/10/25/19/45/puzzle-2889044_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/776615/pexels-photo-776615.jpeg"
+  },
+  { 
+    "word": "Kite", "reading": "ไคท์", "meaning": "ว่าว", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/19/15/48/kite-1149234_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/210307/pexels-photo-210307.jpeg"
+  },
+  { 
+    "word": "Blocks", "reading": "บล็อกส์", "meaning": "ตัวต่อไม้/พลาสติก", 
+    "image": "https://cdn.pixabay.com/photo/2017/03/24/07/58/toy-blocks-2170457_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/279453/pexels-photo-279453.jpeg"
+  },
+  { 
+    "word": "Slide", "reading": "สไลด์", "meaning": "กระดานลื่น", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/13/20/children-1869786_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1243501/pexels-photo-1243501.jpeg"
+  },
+  { 
+    "word": "Swing", "reading": "สวิง", "meaning": "ชิงช้า", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/22/23/swing-1850937_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1015529/pexels-photo-1015529.jpeg"
+  }
+]

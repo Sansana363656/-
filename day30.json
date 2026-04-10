@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Party", "reading": "พาร์-ตี้", "meaning": "งานเลี้ยง/งานปาร์ตี้", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/19/05/adult-1850073_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg"
+  },
+  { 
+    "word": "Gift", "reading": "กิฟต์", "meaning": "ของขวัญ", 
+    "image": "https://cdn.pixabay.com/photo/2014/11/21/17/17/gift-540830_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/264771/pexels-photo-264771.jpeg"
+  },
+  { 
+    "word": "Cake", "reading": "เค้ก", "meaning": "เค้ก", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/22/18/52/cake-1850011_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1070850/pexels-photo-1070850.jpeg"
+  },
+  { 
+    "word": "Candle", "reading": "แคน-เดิล", "meaning": "เทียน", 
+    "image": "https://cdn.pixabay.com/photo/2015/09/09/20/00/candle-932921_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/60611/pexels-photo-60611.jpeg"
+  },
+  { 
+    "word": "Balloon", "reading": "บัล-ลูน", "meaning": "ลูกโป่ง", 
+    "image": "https://cdn.pixabay.com/photo/2014/10/07/11/49/balloons-477543_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/3419639/pexels-photo-3419639.jpeg"
+  },
+  { 
+    "word": "Music", "reading": "มิว-สิก", "meaning": "ดนตรี", 
+    "image": "https://cdn.pixabay.com/photo/2015/05/07/11/02/guitar-756326_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg"
+  },
+  { 
+    "word": "Dance", "reading": "แดนซ์", "meaning": "เต้นรำ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/18/13/36/ballerina-1834575_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1701202/pexels-photo-1701202.jpeg"
+  },
+  { 
+    "word": "Photo", "reading": "โฟ-โต้", "meaning": "รูปถ่าย", 
+    "image": "https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg"
+  },
+  { 
+    "word": "Friend", "reading": "เฟรนด์", "meaning": "เพื่อน", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/08/05/20/sunset-1807547_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
+  },
+  { 
+    "word": "Celebrate", "reading": "เซ-เล-เบรต", "meaning": "เฉลิมฉลอง", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/06/15/44/festival-2593530_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2014701/pexels-photo-2014701.jpeg"
+  }
+]

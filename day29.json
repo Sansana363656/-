@@ -1,0 +1,52 @@
+[
+  { 
+    "word": "Air conditioner", "reading": "แอร์ คอน-ดิ-ชัน-เนอร์", "meaning": "เครื่องปรับอากาศ", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/15/40/clothes-1839935_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg"
+  },
+  { 
+    "word": "Washing machine", "reading": "วอช-ชิง มะ-ชีน", "meaning": "เครื่องซักผ้า", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/25/11/48/washing-machine-2679905_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2255441/pexels-photo-2255441.jpeg"
+  },
+  { 
+    "word": "Microwave", "reading": "ไม-โคร-เวฟ", "meaning": "ไมโครเวฟ", 
+    "image": "https://cdn.pixabay.com/photo/2015/10/25/11/24/microwave-1005664_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4098524/pexels-photo-4098524.jpeg"
+  },
+  { 
+    "word": "Vacuum cleaner", "reading": "แวค-คิว-อัม คลีน-เนอร์", "meaning": "เครื่องดูดฝุ่น", 
+    "image": "https://cdn.pixabay.com/photo/2017/08/24/11/50/vacuum-cleaner-2676457_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/38325/vacuum-cleaner-clean-carpet-38325.jpeg"
+  },
+  { 
+    "word": "Iron", "reading": "ไอ-เอิร์น", "meaning": "เตารีด", 
+    "image": "https://cdn.pixabay.com/photo/2014/12/27/15/41/ironing-581206_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4553277/pexels-photo-4553277.jpeg"
+  },
+  { 
+    "word": "Toaster", "reading": "โทส-เทอร์", "meaning": "เครื่องปิ้งขนมปัง", 
+    "image": "https://cdn.pixabay.com/photo/2014/07/21/21/53/toaster-398914_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/4098528/pexels-photo-4098528.jpeg"
+  },
+  { 
+    "word": "Kettle", "reading": "เคท-เทิล", "meaning": "กาต้มน้ำ", 
+    "image": "https://cdn.pixabay.com/photo/2017/09/01/13/28/kettle-2704230_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/209692/pexels-photo-209692.jpeg"
+  },
+  { 
+    "word": "Hair dryer", "reading": "แฮร์ ดราย-เออร์", "meaning": "ไดร์เป่าผม", 
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/10/23/woman-1868994_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/935737/pexels-photo-935737.jpeg"
+  },
+  { 
+    "word": "Blender", "reading": "เบลน-เดอร์", "meaning": "เครื่องปั่น", 
+    "image": "https://cdn.pixabay.com/photo/2017/06/15/11/51/smoothie-2405232_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2284166/pexels-photo-2284166.jpeg"
+  },
+  { 
+    "word": "Electric fan", "reading": "อิ-เล็ก-ทริก แฟน", "meaning": "พัดลมไฟฟ้า", 
+    "image": "https://cdn.pixabay.com/photo/2012/04/13/13/19/fan-32367_1280.png",
+    "image_backup": "https://images.pexels.com/photos/3675622/pexels-photo-3675622.jpeg"
+  }
+]

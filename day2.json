@@ -1,42 +1,72 @@
 [
-    { 
-        "word": "Bread", "reading": "เบรด", "meaning": "ขนมปัง", 
-        "image": "https://cdn.pixabay.com/photo/2016/03/31/18/07/bread-1294132_1280.png" 
-    },
-    { 
-        "word": "Cake", "reading": "เค้ก", "meaning": "เค้ก", 
-        "image": "https://cdn.pixabay.com/photo/2016/11/22/18/52/cake-1850011_1280.jpg" 
-    },
-    { 
-        "word": "Cheese", "reading": "ชีส", "meaning": "เนยแข็ง", 
-        "image": "https://cdn.pixabay.com/photo/2018/05/26/11/54/cheese-3431238_1280.jpg" 
-    },
-    { 
-        "word": "Coffee", "reading": "คอฟ-ฟี่", "meaning": "กาแฟ", 
-        "image": "https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471_1280.jpg" 
-    },
-    { 
-        "word": "Egg", "reading": "เอก", "meaning": "ไข่", 
-        "image": "https://cdn.pixabay.com/photo/2015/09/17/17/19/egg-944495_1280.jpg" 
-    },
-    { 
-        "word": "Hamburger", "reading": "แฮม-เบอร์-เกอร์", "meaning": "แฮมเบอร์เกอร์", 
-        "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg" 
-    },
-    { 
-        "word": "Milk", "reading": "มิ้ลค์", "meaning": "นม", 
-        "image": "https://cdn.pixabay.com/photo/2016/12/06/18/27/milk-1887234_1280.jpg" 
-    },
-    { 
-        "word": "Pizza", "reading": "พิซ-ซ่า", "meaning": "พิซซ่า", 
-        "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg" 
-    },
-    { 
-        "word": "Rice", "reading": "ไรซ์", "meaning": "ข้าว", 
-        "image": "https://cdn.pixabay.com/photo/2016/02/29/05/46/brown-rice-1228057_1280.jpg" 
-    },
-    { 
-        "word": "Water", "reading": "วอ-เท่อร์", "meaning": "น้ำ", 
-        "image": "https://cdn.pixabay.com/photo/2014/12/02/14/40/glass-554160_1280.jpg" 
-    }
+  {
+    "word": "Orange",
+    "reading": "ออ-เรนจ์",
+    "meaning": "ส้ม",
+    "image": "https://cdn.pixabay.com/photo/2016/01/02/01/59/oranges-1117628_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/691166/pexels-photo-691166.jpeg"
+  },
+  {
+    "word": "Mango",
+    "reading": "แมง-โก้",
+    "meaning": "มะม่วง",
+    "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/mango-1238252_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/2294477/pexels-photo-2294477.jpeg"
+  },
+  {
+    "word": "Watermelon",
+    "reading": "วอ-เทอร์-เมล-ลอน",
+    "meaning": "แตงโม",
+    "image": "https://cdn.pixabay.com/photo/2013/07/19/00/18/watermelon-165212_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1313267/pexels-photo-1313267.jpeg"
+  },
+  {
+    "word": "Grapes",
+    "reading": "เกรพส์",
+    "meaning": "องุ่น",
+    "image": "https://cdn.pixabay.com/photo/2014/04/10/11/07/grapes-320776_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg"
+  },
+  {
+    "word": "Pineapple",
+    "reading": "ไพน์-แอป-เปิล",
+    "meaning": "สับปะรด",
+    "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/pineapple-1238250_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/1161547/pexels-photo-1161547.jpeg"
+  },
+  {
+    "word": "Strawberry",
+    "reading": "สตรอ-เบอร์-รี่",
+    "meaning": "สตรอว์เบอร์รี",
+    "image": "https://cdn.pixabay.com/photo/2018/04/09/18/20/strawberry-3304960_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/93405/pexels-photo-93405.jpeg"
+  },
+  {
+    "word": "Coconut",
+    "reading": "โค-โค-นัท",
+    "meaning": "มะพร้าว",
+    "image": "https://cdn.pixabay.com/photo/2018/06/10/17/39/coconut-3466904_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/39511/coconut-nut-food-diet-39511.jpeg"
+  },
+  {
+    "word": "Papaya",
+    "reading": "พะ-พาย-ยะ",
+    "meaning": "มะละกอ",
+    "image": "https://cdn.pixabay.com/photo/2017/08/17/08/13/papaya-2650346_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/5945848/pexels-photo-5945848.jpeg"
+  },
+  {
+    "word": "Durian",
+    "reading": "ดู-เรียน",
+    "meaning": "ทุเรียน",
+    "image": "https://cdn.pixabay.com/photo/2017/06/23/05/42/durian-2433549_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/11053074/pexels-photo-11053074.jpeg"
+  },
+  {
+    "word": "Mangosteen",
+    "reading": "แมง-โก-สตีน",
+    "meaning": "มังคุด",
+    "image": "https://cdn.pixabay.com/photo/2017/04/10/14/05/mangosteen-2218625_1280.jpg",
+    "image_backup": "https://images.pexels.com/photos/6316533/pexels-photo-6316533.jpeg"
+  }
 ]
