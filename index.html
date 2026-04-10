@@ -27,22 +27,27 @@
         <div id="vocab-container" class="container"></div>
 
         <div id="pagination-controls" class="pagination"></div>
-        <div style="text-align: center; margin-top: 20px;">
-    <button id="btn-start-game" onclick="startGame()" style="background: #2196F3; color: white; padding: 15px 30px; border-radius: 30px; border: none; font-size: 1.2rem; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">🎮 เล่นเกมทายภาพ (จากคำศัพท์วันนี้)</button>
-</div>
-
-<div id="game-container" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: white; z-index: 2000; padding: 20px; text-align: center; overflow-y: auto;">
-    <div style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: 0 auto;">
-        <h2 id="score-display">คะแนน: 0</h2>
-        <button onclick="closeGame()" style="background: #ff5252; color: white; border: none; padding: 5px 15px; border-radius: 10px;">ปิดเกม</button>
-    </div>
-    
-    <h1 style="margin: 20px 0; color: #ff9800;">คำนี้คือภาพไหน?</h1>
-    <div id="target-word" style="font-size: 3rem; font-weight: bold; color: #333; margin-bottom: 30px; background: #f0f0f0; padding: 20px; border-radius: 15px; display: inline-block; min-width: 200px;"></div>
-    
-    <div id="choices-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; max-width: 500px; margin: 0 auto;">
+        
+        <div style="text-align: center; margin-top: 30px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+            <button id="btn-start-game-1" onclick="startGame(1)" style="background: #2196F3; color: white; padding: 15px 30px; border-radius: 30px; border: none; font-size: 1.1rem; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: 0.3s;">🎮 เกม 1: ดูศัพท์-ทายภาพ</button>
+            <button id="btn-start-game-2" onclick="startGame(2)" style="background: #9C27B0; color: white; padding: 15px 30px; border-radius: 30px; border: none; font-size: 1.1rem; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: 0.3s;">🎮 เกม 2: ดูภาพ-ทายศัพท์</button>
         </div>
-</div>
+
+        <div id="game-container" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: white; z-index: 2000; padding: 20px; text-align: center; overflow-y: auto;">
+            <div style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: 0 auto;">
+                <h2 id="score-display" style="color: #333;">คะแนน: 0</h2>
+                <button onclick="closeGame()" style="background: #ff5252; color: white; border: none; padding: 8px 20px; border-radius: 10px; cursor: pointer; font-weight: bold; font-family: 'Kanit';">ปิดเกม</button>
+            </div>
+            
+            <h1 id="game-title" style="margin: 20px 0; color: #ff9800;">ทายคำศัพท์</h1>
+            
+            <div id="target-word" style="font-size: 3rem; font-weight: bold; color: #333; margin-bottom: 25px; background: #f0f0f0; padding: 20px; border-radius: 15px; display: inline-block; min-width: 200px;"></div>
+            
+            <img id="target-image" style="width: 280px; height: 220px; object-fit: cover; border-radius: 20px; display: none; margin: 0 auto 25px; border: 5px solid #eee; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+            
+            <div id="choices-container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; max-width: 500px; margin: 0 auto; padding-bottom: 30px;">
+                </div>
+        </div>
     </main>
 
     <script src="script.js"></script>
