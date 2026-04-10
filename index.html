@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📸 Visual Vocab ของคุณอ้วน</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📸 พจนานุกรมภาพ</h1>
+        
+        <div class="controls">
+            <div class="day-selector">
+                <input type="number" id="dayInput" value="1" min="1">
+                <button onclick="loadVocab()">ดึงข้อมูล 🚀</button>
+            </div>
+            
+            <div class="day-navigation" style="margin-top: 15px;">
+                <button onclick="changeDay(-1)" style="background: #ff9800;">⬅️ วันก่อนหน้า</button>
+                <button onclick="changeDay(1)" style="background: #ff9800;">วันถัดไป ➡️</button>
+            </div>
+
+            <div style="margin-top: 20px;">
+                <input type="text" id="searchInput" onkeyup="searchVocab()" placeholder="🔍 ค้นหาคำศัพท์...">
+            </div>
+        </div>
+
+        <div id="vocab-container" class="grid-container"></div>
+        <div id="pagination-controls"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

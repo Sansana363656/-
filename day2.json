@@ -1,0 +1,42 @@
+[
+    { 
+        "word": "Bread", "reading": "เบรด", "meaning": "ขนมปัง", 
+        "image": "https://cdn.pixabay.com/photo/2016/03/31/18/07/bread-1294132_1280.png" 
+    },
+    { 
+        "word": "Cake", "reading": "เค้ก", "meaning": "เค้ก", 
+        "image": "https://cdn.pixabay.com/photo/2016/11/22/18/52/cake-1850011_1280.jpg" 
+    },
+    { 
+        "word": "Cheese", "reading": "ชีส", "meaning": "เนยแข็ง", 
+        "image": "https://cdn.pixabay.com/photo/2018/05/26/11/54/cheese-3431238_1280.jpg" 
+    },
+    { 
+        "word": "Coffee", "reading": "คอฟ-ฟี่", "meaning": "กาแฟ", 
+        "image": "https://cdn.pixabay.com/photo/2017/05/12/08/29/coffee-2306471_1280.jpg" 
+    },
+    { 
+        "word": "Egg", "reading": "เอก", "meaning": "ไข่", 
+        "image": "https://cdn.pixabay.com/photo/2015/09/17/17/19/egg-944495_1280.jpg" 
+    },
+    { 
+        "word": "Hamburger", "reading": "แฮม-เบอร์-เกอร์", "meaning": "แฮมเบอร์เกอร์", 
+        "image": "https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_1280.jpg" 
+    },
+    { 
+        "word": "Milk", "reading": "มิ้ลค์", "meaning": "นม", 
+        "image": "https://cdn.pixabay.com/photo/2016/12/06/18/27/milk-1887234_1280.jpg" 
+    },
+    { 
+        "word": "Pizza", "reading": "พิซ-ซ่า", "meaning": "พิซซ่า", 
+        "image": "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395_1280.jpg" 
+    },
+    { 
+        "word": "Rice", "reading": "ไรซ์", "meaning": "ข้าว", 
+        "image": "https://cdn.pixabay.com/photo/2016/02/29/05/46/brown-rice-1228057_1280.jpg" 
+    },
+    { 
+        "word": "Water", "reading": "วอ-เท่อร์", "meaning": "น้ำ", 
+        "image": "https://cdn.pixabay.com/photo/2014/12/02/14/40/glass-554160_1280.jpg" 
+    }
+]
